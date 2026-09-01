@@ -82,7 +82,7 @@ st.set_page_config(
 )
 
 
-st.title("🔬 Skin Cancer AI")
+st.title("Swatershwar - Skin Cancer AI")
 
 st.write(
     "AI-assisted skin lesion classification"
