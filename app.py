@@ -85,19 +85,20 @@ st.set_page_config(
 st.title("Swatershwar - Skin Cancer AI")
 
 st.write(
-    "Yeh sirf 2 type ke skin cancer classify karta hai... Aur feature baad mein ayengey.."
+    "Yeh sirf 2 type ke skin cancer classify karta hai...Dhanyawad apka"
 )
 
 
 st.warning(
     "Research prototype only. "
     "This system is not a medical diagnostic tool."
-    "\n Agar app isse illaj karwane ke baad koi dardnaak maut marte ho toh usme hamara koi lena dena nahi rahega... danke schon..."
+    "\n\n"
+    "Agar app isse illaj karwane ke baad koi dardnaak maut marte ho "
+    "toh usme hamara koi lena dena nahi rahega... danke schön..."
 )
 
-
 uploaded_file = st.file_uploader(
-    "Upload a skin lesion image",
+    "Upload a skin image (We will not be racist I promise.)",
     type=[
         "jpg",
         "jpeg",
