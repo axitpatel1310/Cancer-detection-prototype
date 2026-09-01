@@ -91,7 +91,8 @@ st.write(
 
 st.warning(
     "Research prototype only. "
-    "This system is not a medical diagnostic tool. Agar app isse illaj karwane ke baad koi dardnaak maut marte ho toh usme hamara koi lena dena nahi rahega... danke schon..."
+    "This system is not a medical diagnostic tool."
+    "\n Agar app isse illaj karwane ke baad koi dardnaak maut marte ho toh usme hamara koi lena dena nahi rahega... danke schon..."
 )
 
 
