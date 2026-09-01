@@ -85,7 +85,7 @@ st.set_page_config(
 st.title("Swatershwar - Skin Cancer AI")
 
 st.write(
-    "Yeh sirf 2 type ke skin cancer classify karta hai... Aur feature baad mein ayengey.. "
+    "Yeh sirf 2 type ke skin cancer classify karta hai... Aur feature baad mein ayengey.."
 )
 
 
