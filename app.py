@@ -77,7 +77,7 @@ transform = transforms.Compose([
 # -----------------------------
 
 st.set_page_config(
-    page_title="Skin Cancer AI",
+    page_title="Swatershwar Skin Cancer AI",
     page_icon="🔬"
 )
 
